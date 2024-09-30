@@ -119,6 +119,39 @@ author_profile: true
     </div>
   </div>
 
+  <h2><span>2021</span></h2>
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/500x300.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>Guided Event Filtering: Synergy between intensity images and neuromorphic events for high performance imaging</papertitle>
+      <br>
+      <strong>Peiqi Duan<sup>#</sup></strong>, Zihao W. Wang<sup>#</sup>, Boxin Shi<sup>*</sup>, Oliver Cossairt, Tiejun Huang, and Aggelos K. Katsaggelos
+      <br>
+      <em>TPAMI</em>, 2021
+      <br>
+      <a href="https://downloads.ctfassets.net/yreyglvi5sud/7Lv91dkRm8ccSeSj7E8pkb/0e61ecea37676e626ea32e5a2683ad41/Duan_TPAMI21.pdf">[paper]</a> 
+      <a href="https://sites.google.com/view/guided-event-filtering/">[website]</a>
+    </div>
+  </div>
+
+   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/500x300.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>EventZoom: Learning to denoise and super resolve neuromorphic events</papertitle>
+      <br>
+     <strong>Peiqi Duan</strong>, Zihao W. Wang, Xinyu Zhou, Yi Ma, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>CVPR</em>, 2021
+      <br>
+      <a href="https://assets.ctfassets.net/yreyglvi5sud/MyFOVymXNOWuqYwi5tWMK/5be8c2c2c7f0061de3e5d39979ea3283/Duan_CVPR21.pdf">[paper]</a> 
+      <a href="https://sites.google.com/view/EventZoom">[website]</a>
+    </div>
+  </div>
+
 
 <style>
     /* Flexbox 容器 */
