@@ -21,7 +21,7 @@ repository               : "peiqi-duan/peiqi-duan.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "duanpeiqi.jpg"
+  avatar           : "peiqi-duan.jpg"
   name             : "Peiqi Duan 段沛奇"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
