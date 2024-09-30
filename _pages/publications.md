@@ -12,8 +12,8 @@ author_profile: true
     <td style="padding:20px;width:25%;vertical-align:middle">
       <div class="one">
         <div class="two" id='par2net_image'>
-          <img src='images/500x300.png' width="160"></div>
-        <img src='images/500x300.png' width="160">
+          <img src='../images/500x300.png' width="160"></div>
+        <img src='../images/500x300.png' width="160">
       </div>
       <script type="text/javascript">
         function par2net_start() {
