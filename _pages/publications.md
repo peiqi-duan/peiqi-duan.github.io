@@ -5,21 +5,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-#{% if site.author.googlescholar %}
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-#{% endif %}
-#
-#{% include base_path %}
-#
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
+
 
 <tr onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <td style="padding:20px;width:25%;vertical-align:middle">
       <div class="one">
         <div class="two" id='par2net_image'>
-          <img src='images/par2net_t.jpg' width="160"></div>
+          <img src='images/500x300.png' width="160"></div>
         <img src='images/500x300.png' width="160">
       </div>
       <script type="text/javascript">
