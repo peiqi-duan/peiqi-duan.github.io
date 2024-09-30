@@ -76,22 +76,6 @@ author_profile: true
       <img src="../images/500x300.png" width="160" alt="Image">
     </div>
     <div class="text-container">
-      <papertitle>NeuroZoom: Denoising and super resolving neuromorphic events and spikes</papertitle>
-      <br>
-      <strong>Peiqi Duan</strong>, Yi Ma, Xinyu Zhou, Xinyu Shi, Zihao W. Wang, Tiejun Huang, and Boxin Shi<sup>*</sup>
-      <br>
-      <em>TPAMI</em>, 2023
-      <br>
-      <a href="https://downloads.ctfassets.net/yreyglvi5sud/7yA8sqjDJilRmL5iseiRpB/734af0b70b6b8966d79ff4dd6d8cf73a/Han_TPAMI22.pdf">[paper]</a> 
-      <a href="https://sites.google.com/view/EventZoom-NeuroZoom">[website]</a>
-    </div>
-  </div>
-
-  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
-    <div class="image-container">
-      <img src="../images/500x300.png" width="160" alt="Image">
-    </div>
-    <div class="text-container">
       <papertitle>Coherent event guided low-light video enhancement</papertitle>
       <br>
       Jinxiu Liang, Yixin Yang, Boyu Li, <strong>Peiqi Duan</strong>, Yong Xu, and Boxin Shi<sup>*</sup>
