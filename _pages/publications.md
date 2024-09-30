@@ -9,7 +9,7 @@ author_profile: true
 
 <table>
   <tr onmouseout="par2net_stop()" onmouseover="par2net_start()">
-    <td style="padding:20px; width:20%; vertical-align:middle;">
+    <td style="padding:10px; width:20%; vertical-align:middle;">
       <div class="flex-container">
         <div class="one">
           <div class="two" id='par2net_image'>
