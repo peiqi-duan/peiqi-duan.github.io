@@ -13,20 +13,9 @@ author_profile: true
       <div class="one">
         <div class="two" id='par2net_image'>
           <img src='../images/500x300.png' width="160"></div>
-        <img src='../images/500x300.png' width="160">
       </div>
-      <script type="text/javascript">
-        function par2net_start() {
-          document.getElementById('par2net_image').style.opacity = "1";
-        }
-
-        function par2net_stop() {
-          document.getElementById('par2net_image').style.opacity = "0";
-        }
-        par2net_stop()
-      </script>
     </td>
-    <td style="padding:20px;width:75%;vertical-align:middle">
+    <td style="padding:20px;width:50%;vertical-align:middle">
         <papertitle>PAR<sup>2</sup>Net: End-to-end Panoramic Image Reflection Removal</papertitle>
       <br>
       <strong>Yuchen Hong</strong>, Qian Zheng, Lingran Zhao, Xudong Jiang, Alex C. Kot, Boxin Shi
@@ -35,4 +24,4 @@ author_profile: true
       <br>
       <a href="https://ieeexplore.ieee.org/abstract/document/10153662/">[paper]</a> <a href="paper/pami23_supp.pdf">[supp]</a>
     </td>
-  </tr>
+</tr>
