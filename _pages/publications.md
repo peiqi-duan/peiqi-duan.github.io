@@ -12,14 +12,12 @@ author_profile: true
       <img src="../images/500x300.png" width="160" alt="Image">
     </div>
     <div class="text-container">
-      <papertitle>PAR<sup>2</sup>Net: End-to-end Panoramic Image Reflection Removal</papertitle>
+      <papertitle>Color4E: Event demosaicing for full-color event guided image deblurring</papertitle>
       <br>
-      <strong>Yuchen Hong</strong>, Qian Zheng, Lingran Zhao, Xudong Jiang, Alex C. Kot, Boxin Shi
+      Yi Ma<sup>#</sup>,<strong>Peiqi Duan<sup>#</sup></strong>, Yuchen Hong, Chu Zhou, Yu Zhang, Jimmy Ren, and Boxin Shi<sup>*</sup>
       <br>
-      <em>TPAMI</em>, 2023
+      <em>ACM MM</em>, 2024
       <br>
-      <a href="https://ieeexplore.ieee.org/abstract/document/10153662/">[paper]</a> 
-      <a href="paper/pami23_supp.pdf">[supp]</a>
     </div>
   </div>
 
@@ -28,14 +26,14 @@ author_profile: true
     <img src="../images/500x300.png" width="160" alt="Image">
   </div>
   <div class="text-container">
-    <papertitle>PAR<sup>2</sup>Net: End-to-end Panoramic Image Reflection Removal</papertitle>
+    <papertitle>EvDiG: Event-guided direct and global components separation</papertitle>
     <br>
-    <strong>Yuchen Hong</strong>, Qian Zheng, Lingran Zhao, Xudong Jiang, Alex C. Kot, Boxin Shi
+    Xinyu Zhou, <strong>Peiqi Duan</strong>strong>, Boyu Li, Chu Zhou, Chao Xu, and Boxin Shi<sup>*</sup>
     <br>
-    <em>TPAMI</em>, 2023
+    <em>CVPR</em>, 2023
     <br>
-    <a href="https://ieeexplore.ieee.org/abstract/document/10153662/">[paper]</a> 
-    <a href="paper/pami23_supp.pdf">[supp]</a>
+    <a href="https://assets.ctfassets.net/yreyglvi5sud/4rrKmGuR98bvBBmLlZK7i3/7c2a00d49adde30a4caba7cdec852f24/Zhou_CVPR24.pdf">[paper]</a> 
+    <a href="https://www.youtube.com/watch?v=y0bMZnUJt14">[video]</a>
   </div>
 
     
