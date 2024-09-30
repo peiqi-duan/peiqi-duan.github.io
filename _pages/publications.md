@@ -50,14 +50,3 @@ author_profile: true
     </td>
   </tr>
 </table>
-
-<style>
-.flex-container {
-  display: flex;
-  align-items: center;
-}
-
-.flex-content {
-  margin-left: 20px; /* 可调整此值以控制图像和文本之间的间距 */
-}
-</style>
