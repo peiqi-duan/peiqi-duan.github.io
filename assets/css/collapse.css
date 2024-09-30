@@ -15,3 +15,11 @@
     display: none;
     padding : 5px;
 }
+.flex-container {
+  display: flex;
+  align-items: center;
+}
+
+.flex-content {
+  margin-left: 20px;
+}
