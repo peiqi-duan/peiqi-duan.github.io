@@ -26,12 +26,15 @@ author_profile: true
     </td>
 </tr>
 
-<table>
-  <tr onmouseout="par2net_stop()" onmouseover="par2net_start()">
-    <td style="padding:20px; vertical-align:middle;">
+<tr onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <td style="padding:20px; width:25%; vertical-align:middle;">
       <div class="flex-container">
-        <img src='../images/500x300.png' width="160" style="margin-right: 20px;">
-        <div>
+        <div class="one">
+          <div class="two" id='par2net_image'>
+            <img src='../images/500x300.png' width="160">
+          </div>
+        </div>
+        <div class="flex-content">
           <papertitle>PAR<sup>2</sup>Net: End-to-end Panoramic Image Reflection Removal</papertitle>
           <br>
           <strong>Yuchen Hong</strong>, Qian Zheng, Lingran Zhao, Xudong Jiang, Alex C. Kot, Boxin Shi
@@ -42,5 +45,4 @@ author_profile: true
         </div>
       </div>
     </td>
-  </tr>
-</table>
+</tr>
