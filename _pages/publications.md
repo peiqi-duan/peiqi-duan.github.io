@@ -23,37 +23,37 @@ author_profile: true
   </div>
 
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
-  <div class="image-container">
-    <img src="../images/500x300.png" width="160" alt="Image">
-  </div>
-  <div class="text-container">
-    <papertitle>EvDiG: Event-guided direct and global components separation</papertitle>
-    <br>
-    Xinyu Zhou, <strong>Peiqi Duan</strong>strong>, Boyu Li, Chu Zhou, Chao Xu, and Boxin Shi<sup>*</sup>
-    <br>
-    <em>CVPR</em>, 2024
-    <br>
-    <a href="https://assets.ctfassets.net/yreyglvi5sud/4rrKmGuR98bvBBmLlZK7i3/7c2a00d49adde30a4caba7cdec852f24/Zhou_CVPR24.pdf">[paper]</a> 
-    <a href="https://www.youtube.com/watch?v=y0bMZnUJt14">[video]</a>
+    <div class="image-container">
+      <img src="../images/500x300.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>EvDiG: Event-guided direct and global components separation</papertitle>
+      <br>
+      Xinyu Zhou, <strong>Peiqi Duan</strong>strong>, Boyu Li, Chu Zhou, Chao Xu, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>CVPR</em>, 2024
+      <br>
+      <a href="https://assets.ctfassets.net/yreyglvi5sud/4rrKmGuR98bvBBmLlZK7i3/7c2a00d49adde30a4caba7cdec852f24/Zhou_CVPR24.pdf">[paper]</a> 
+      <a href="https://www.youtube.com/watch?v=y0bMZnUJt14">[video]</a>
+    </div>
   </div>
 
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
-  <div class="image-container">
-    <img src="../images/500x300.png" width="160" alt="Image">
-  </div>
-  <div class="text-container">
-    <papertitle>EvDiG: Event-guided direct and global components separation</papertitle>
-    <br>
-    Xinyu Zhou, <strong>Peiqi Duan</strong>strong>, Boyu Li, Chu Zhou, Chao Xu, and Boxin Shi<sup>*</sup>
-    <br>
-    <em>CVPR</em>, 2023
-    <br>
-    <a href="https://assets.ctfassets.net/yreyglvi5sud/4rrKmGuR98bvBBmLlZK7i3/7c2a00d49adde30a4caba7cdec852f24/Zhou_CVPR24.pdf">[paper]</a> 
-    <a href="https://www.youtube.com/watch?v=y0bMZnUJt14">[video]</a>
+    <div class="image-container">
+      <img src="../images/500x300.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>EvDiG: Event-guided direct and global components separation</papertitle>
+      <br>
+      Xinyu Zhou, <strong>Peiqi Duan</strong>strong>, Boyu Li, Chu Zhou, Chao Xu, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>CVPR</em>, 2023
+      <br>
+      <a href="https://assets.ctfassets.net/yreyglvi5sud/4rrKmGuR98bvBBmLlZK7i3/7c2a00d49adde30a4caba7cdec852f24/Zhou_CVPR24.pdf">[paper]</a> 
+      <a href="https://www.youtube.com/watch?v=y0bMZnUJt14">[video]</a>
+    </div>
   </div>
 
-    
-</div>
 
 <style>
     /* Flexbox 容器 */
