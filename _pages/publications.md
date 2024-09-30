@@ -29,7 +29,7 @@ author_profile: true
     <div class="text-container">
       <papertitle>EvDiG: Event-guided direct and global components separation</papertitle>
       <br>
-      Xinyu Zhou, <strong>Peiqi Duan</strong>strong>, Boyu Li, Chu Zhou, Chao Xu, and Boxin Shi<sup>*</sup>
+      Xinyu Zhou, <strong>Peiqi Duan</strong>, Boyu Li, Chu Zhou, Chao Xu, and Boxin Shi<sup>*</sup>
       <br>
       <em>CVPR</em>, 2024
       <br>
@@ -38,19 +38,68 @@ author_profile: true
     </div>
   </div>
 
+<h2><span>2023</span></h2>
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
       <img src="../images/500x300.png" width="160" alt="Image">
     </div>
     <div class="text-container">
-      <papertitle>EvDiG: Event-guided direct and global components separation</papertitle>
+      <papertitle>Hybrid high dynamic range imaging fusing neuromorphic and conventional images</papertitle>
       <br>
-      Xinyu Zhou, <strong>Peiqi Duan</strong>strong>, Boyu Li, Chu Zhou, Chao Xu, and Boxin Shi<sup>*</sup>
+      Jin Han, Yixin Yang, <strong>Peiqi Duan</strong>, Chu Zhou, Lei Ma, Chao Xu, Tiejun Huang, Imari Sato, and Boxin Shi<sup>*</sup>
       <br>
-      <em>CVPR</em>, 2023
+      <em>TPAMI</em>, 2023
       <br>
-      <a href="https://assets.ctfassets.net/yreyglvi5sud/4rrKmGuR98bvBBmLlZK7i3/7c2a00d49adde30a4caba7cdec852f24/Zhou_CVPR24.pdf">[paper]</a> 
-      <a href="https://www.youtube.com/watch?v=y0bMZnUJt14">[video]</a>
+      <a href="https://downloads.ctfassets.net/yreyglvi5sud/7yA8sqjDJilRmL5iseiRpB/734af0b70b6b8966d79ff4dd6d8cf73a/Han_TPAMI22.pdf">[paper]</a> 
+      <a href="https://github.com/hjynwa/NeurImg-HDR">[website]</a>
+    </div>
+  </div>
+
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/500x300.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>NeuroZoom: Denoising and super resolving neuromorphic events and spikes</papertitle>
+      <br>
+      <strong>Peiqi Duan</strong>, Yi Ma, Xinyu Zhou, Xinyu Shi, Zihao W. Wang, Tiejun Huang, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>TPAMI</em>, 2023
+      <br>
+      <a href="https://downloads.ctfassets.net/yreyglvi5sud/CfT1NA9r1HNehoQqZyf5t/0f0e305cfd5b73471226f5ef1dfa52fe/Duan_TPAMI23_comp.pdf">[paper]</a> 
+      <a href="https://github.com/hjynwa/NeurImg-HDR">[website]</a>
+    </div>
+  </div>
+
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/500x300.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>NeuroZoom: Denoising and super resolving neuromorphic events and spikes</papertitle>
+      <br>
+      <strong>Peiqi Duan</strong>, Yi Ma, Xinyu Zhou, Xinyu Shi, Zihao W. Wang, Tiejun Huang, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>TPAMI</em>, 2023
+      <br>
+      <a href="https://downloads.ctfassets.net/yreyglvi5sud/7yA8sqjDJilRmL5iseiRpB/734af0b70b6b8966d79ff4dd6d8cf73a/Han_TPAMI22.pdf">[paper]</a> 
+      <a href="https://sites.google.com/view/EventZoom-NeuroZoom">[website]</a>
+    </div>
+  </div>
+
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/500x300.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>Coherent event guided low-light video enhancement</papertitle>
+      <br>
+      Jinxiu Liang, Yixin Yang, Boyu Li, <strong>Peiqi Duan</strong>, Yong Xu, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>ICCV</em>, 2023
+      <br>
+      <a href="https://assets.ctfassets.net/yreyglvi5sud/4jmy8h8OR0kmr3Oj1YaOIf/94751ea976fee4b06d9127095ac0249c/Liang_ICCV23a.pdf">[paper]</a> 
+      <a href="https://sherrycattt.github.io/EvLowLight/">[website]</a>
     </div>
   </div>
 
