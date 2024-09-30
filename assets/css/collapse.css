@@ -19,7 +19,35 @@
   display: flex;
   align-items: center;
 }
-
 .flex-content {
   margin-left: 20px;
+}
+.main-box {
+	border-top:5px solid #eaeaea;
+	background:#fff;
+	width:100%;
+}
+.container {
+	margin: 0 auto;
+	position: relative;
+	width: 1000px;
+	font-size: 0.8125em;
+}
+.inside{ padding: 32px 37px 50px 37px; }
+.wrapper { 
+	width:100%;
+	overflow:hidden;
+}
+.team-list li {
+	width:100%;
+	overflow:hidden;
+	padding-bottom:15px;
+}
+.team-list li:last-child {
+	padding-bottom:0;
+}
+.team-list li figure {
+    float:left;
+    margin:0 20px 0 0;
+    padding:0;
 }
