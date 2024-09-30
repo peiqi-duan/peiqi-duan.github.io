@@ -13,7 +13,7 @@ author_profile: true
       <img src="../images/500x300.png" width="160" alt="Image">
     </div>
     <div class="text-container">
-      <papertitle>Color4E: Event demosaicing for full-color event guided image deblurring</papertitle>
+      Color4E: Event demosaicing for full-color event guided image deblurring
       <br>
       Yi Ma<sup>#</sup>,<strong>Peiqi Duan<sup>#</sup></strong>, Yuchen Hong, Chu Zhou, Yu Zhang, Jimmy Ren, and Boxin Shi<sup>*</sup>
       <br>
