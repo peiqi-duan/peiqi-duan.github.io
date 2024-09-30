@@ -7,20 +7,18 @@ author_profile: true
 
 <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
 
-<div class="main-box">
-    <div class="container">
-      <div class="inside">
-        <div class="wrapper">
-           	  <ul class="team-list">
-		<li>
-                <img src='../images/500x300.png' width="160" style="margin-right: 20px;">
-                Self-calibrating deep photometric stereo networks <br>
-                Guanying Chen, Kai Han, Boxin Shi, Yasuyuki Matsushita, and Kwan-Yee K. Wong <br>
-                <a href="files/CVPR19a.pdf" target="_blank">PDF</a> 
-		<a href="files/CVPR19aSUPP.pdf" target="_blank">supplementary</a>
-                </li>
-              </ul>
-        </div>
-      </div>
-    </div>
+<div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+  <div class="image-container">
+    <img src="../images/500x300.png" width="160" alt="Image">
   </div>
+  <div class="text-container">
+    <papertitle>PAR<sup>2</sup>Net: End-to-end Panoramic Image Reflection Removal</papertitle>
+    <br>
+    <strong>Yuchen Hong</strong>, Qian Zheng, Lingran Zhao, Xudong Jiang, Alex C. Kot, Boxin Shi
+    <br>
+    <em>TPAMI</em>, 2023
+    <br>
+    <a href="https://ieeexplore.ieee.org/abstract/document/10153662/">[paper]</a> 
+    <a href="paper/pami23_supp.pdf">[supp]</a>
+  </div>
+</div>
