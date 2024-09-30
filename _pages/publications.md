@@ -25,3 +25,39 @@ author_profile: true
       <a href="https://ieeexplore.ieee.org/abstract/document/10153662/">[paper]</a> <a href="paper/pami23_supp.pdf">[supp]</a>
     </td>
 </tr>
+
+<table>
+  <tr onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <td style="padding:20px; width:25%; vertical-align:middle;">
+      <div class="flex-container">
+        <div class="one">
+          <div class="two" id='par2net_image'>
+            <img src='../images/500x300.png' width="160">
+          </div>
+        </div>
+        <div class="flex-content">
+          <papertitle>PAR<sup>2</sup>Net: End-to-end Panoramic Image Reflection Removal</papertitle>
+          <br>
+          <strong>Yuchen Hong</strong>, Qian Zheng, Lingran Zhao,
+          Xudong Jiang, Alex C. Kot, Boxin Shi
+          <br>
+          <em>TPAMI</em>, 2023
+          <br>
+          <a href="https://ieeexplore.ieee.org/abstract/document/10153662/">[paper]</a> 
+          <a href="paper/pami23_supp.pdf">[supp]</a>
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<style>
+.flex-container {
+  display: flex;
+  align-items: center;
+}
+
+.flex-content {
+  margin-left: 20px; /* 可调整此值以控制图像和文本之间的间距 */
+}
+</style>
