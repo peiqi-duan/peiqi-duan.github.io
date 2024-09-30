@@ -14,3 +14,35 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<tr onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <td style="padding:20px;width:25%;vertical-align:middle">
+      <div class="one">
+        <div class="two" id='par2net_image'>
+          <img src='images/par2net_t.jpg' width="160"></div>
+        <img src='images/par2net_m.jpg' width="160">
+      </div>
+      <script type="text/javascript">
+        function par2net_start() {
+          document.getElementById('par2net_image').style.opacity = "1";
+        }
+
+        function par2net_stop() {
+          document.getElementById('par2net_image').style.opacity = "0";
+        }
+        par2net_stop()
+      </script>
+    </td>
+    <td style="padding:20px;width:75%;vertical-align:middle">
+        <papertitle>PAR<sup>2</sup>Net: End-to-end Panoramic Image Reflection Removal</papertitle>
+      </a>
+      <br>
+      <strong>Yuchen Hong</strong>, Qian Zheng, Lingran Zhao, Xudong Jiang, Alex C. Kot, Boxin Shi
+      <br>
+      <em>TPAMI</em>, 2023
+      <br>
+      <a href="https://ieeexplore.ieee.org/abstract/document/10153662/">[paper]</a> <a href="paper/pami23_supp.pdf">[supp]</a> [code] [dataset]
+      <p></p>
+      <p>This paper proposes the <em>first end-to-end panoramic image reflection removal framework</em>, aiming at reliving the content ambiguity between reflection and transmission scenes.</p>
+    </td>
+  </tr>
