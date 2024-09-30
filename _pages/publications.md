@@ -26,7 +26,8 @@ author_profile: true
     </td>
 </tr>
 
-<tr onmouseout="par2net_stop()" onmouseover="par2net_start()">
+<table>
+  <tr onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <td style="padding:20px; width:25%; vertical-align:middle;">
       <div class="flex-container">
         <div class="one">
@@ -37,12 +38,15 @@ author_profile: true
         <div class="flex-content">
           <papertitle>PAR<sup>2</sup>Net: End-to-end Panoramic Image Reflection Removal</papertitle>
           <br>
-          <strong>Yuchen Hong</strong>, Qian Zheng, Lingran Zhao, Xudong Jiang, Alex C. Kot, Boxin Shi
+          <strong>Yuchen Hong</strong>, Qian Zheng, Lingran Zhao,
+          Xudong Jiang, Alex C. Kot, Boxin Shi
           <br>
           <em>TPAMI</em>, 2023
           <br>
-          <a href="https://ieeexplore.ieee.org/abstract/document/10153662/">[paper]</a> <a href="paper/pami23_supp.pdf">[supp]</a>
+          <a href="https://ieeexplore.ieee.org/abstract/document/10153662/">[paper]</a> 
+          <a href="paper/pami23_supp.pdf">[supp]</a>
         </div>
       </div>
     </td>
-</tr>
+  </tr>
+</table>
