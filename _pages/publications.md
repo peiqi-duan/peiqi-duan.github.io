@@ -87,6 +87,38 @@ author_profile: true
     </div>
   </div>
 
+<h2><span>2022</span></h2>
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/500x300.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>Data association between event streams and intensity frames under diverse baselines</papertitle>
+      <br>
+      Dehao Zhang, Qiankun Ding, <strong>Peiqi Duan</strong>, Chu Zhou, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>ECCV</em>, 2022
+      <br>
+      <a href="https://assets.ctfassets.net/yreyglvi5sud/77lslHrshWxDUxmUla9out/b1772a73762d82a0a039fa96d506bbc3/Zhang_ECCV22e.pdf">[paper]</a> 
+    </div>
+  </div>
+
+   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/500x300.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>EvUnroll: Neuromorphic events based rolling shutter image correction</papertitle>
+      <br>
+     Xinyu Zhou<sup>#</sup>,<strong>Peiqi Duan<sup>#</sup></strong>, Yi Ma, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>CVPR</em>, 2022
+      <br>
+      <a href="https://assets.ctfassets.net/yreyglvi5sud/1VoRnvDiIhvSnL0yc7TpAh/4e69c5da94f6d61e3f7172a10edf92b2/Zhou_CVPR22a.pdf">[paper]</a> 
+      <a href="https://github.com/zxyemo/EvUnroll">[website]</a>
+    </div>
+  </div>
+
 
 <style>
     /* Flexbox 容器 */
