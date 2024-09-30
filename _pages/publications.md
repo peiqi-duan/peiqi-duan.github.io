@@ -13,7 +13,7 @@ author_profile: true
         <div class="wrapper">
            	  <ul class="team-list">
 				<li>
-                <figure><img src="../images/500x300.png" alt=""></figure>
+                <figure><img src="../images/500x300.png" alt="" width="160"></figure>
                 <h3><a>[CVPR19a]</a></h3>
                 Self-calibrating deep photometric stereo networks <br>
                 Guanying Chen, Kai Han, Boxin Shi, Yasuyuki Matsushita, and Kwan-Yee K. Wong <br>
