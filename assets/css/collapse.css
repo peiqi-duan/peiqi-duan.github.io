@@ -22,32 +22,23 @@
 .flex-content {
   margin-left: 20px;
 }
-.main-box {
-	border-top:5px solid #eaeaea;
-	background:#fff;
-	width:100%;
+.flex-row {
+display: flex;
+align-items: center; /* 垂直居中 */
+padding: 20px;
+/* 可选：添加背景颜色或其他样式 */
 }
-.container {
-	margin: 0 auto;
-	position: relative;
-	width: 1000px;
-	font-size: 0.8125em;
+
+.image-container {
+margin-right: 20px; /* 控制图片和文字之间的间距 */
 }
-.inside{ padding: 32px 37px 50px 37px; }
-.wrapper { 
-	width:100%;
-	overflow:hidden;
+
+.image-container img {
+max-width: 100%;
+height: auto;
+display: block;
 }
-.team-list li {
-	width:100%;
-	overflow:hidden;
-	padding-bottom:15px;
-}
-.team-list li:last-child {
-	padding-bottom:0;
-}
-.team-list li figure {
-    float:left;
-    margin:0 20px 0 0;
-    padding:0;
+
+.text-container {
+/* 根据需要添加文字样式 */
 }
