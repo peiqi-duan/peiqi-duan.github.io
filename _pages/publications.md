@@ -26,7 +26,7 @@ author_profile: true
     </td>
 </tr>
 
-
+<table>
 <tr onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <td style="padding:20px; width:25%; vertical-align:middle;">
       <div class="flex-container">
@@ -72,4 +72,5 @@ author_profile: true
       </div>
     </td>
 </tr>
+</table>
 
