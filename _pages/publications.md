@@ -152,6 +152,38 @@ author_profile: true
     </div>
   </div>
 
+<h2><span>2020</span></h2>
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/500x300.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>Neuromorphic camera guided high dynamic range imaging</papertitle>
+      <br>
+      Jin Han, Chu Zhou, <strong>Peiqi Duan</strong>, Yehui Tang, Chang Xu, Chao Xu, Tiejun Huang, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>CVPR</em>, 2020
+      <br>
+      <a href="https://downloads.ctfassets.net/yreyglvi5sud/6AVrg44HPuHRAp3NlzUmtZ/bb1bb60a12c73a12dd8d117dcfdf2422/Han_CVPR20.pdf">[paper]</a> 
+    </div>
+  </div>
+
+   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/500x300.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>Joint filtering of intensity images and neuromorphic events for high-resolution noise robust imaging</papertitle>
+      <br>
+     Zihao Wang<sup>#</sup>, Peiqi Duan<strong>Peiqi Duan<sup>#</sup></strong>, Oliver Cossairt, Aggelos Katsaggelos, Tiejun Huang, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>CVPR</em>, 2020
+      <br>
+      <a href="https://downloads.ctfassets.net/yreyglvi5sud/3cjQpBS1ZziYsK5oWHAhW9/775c6d7a2b4a3964c92ea662cd71ef72/Wang_CVPR20.pdf">[paper]</a> 
+      <a href="https://sites.google.com/view/guided-event-filtering">[website]</a>
+    </div>
+  </div>
+
 
 <style>
     /* Flexbox 容器 */
