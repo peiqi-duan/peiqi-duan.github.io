@@ -38,6 +38,21 @@ author_profile: true
     </div>
   </div>
 
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/500x300.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>EventAid: Benchmarking event-aided image/video enhancement algorithms with real-captured hybrid dataset</papertitle>
+      <br>
+      <strong>Peiqi Duan<sup>#</sup></strong>, Boyu Li<sup>#</sup>, Yixin Yang, Hanyue Lou, Minggui Teng, Yi Ma, Boxin Shi<sup>*</sup>
+      <br>
+      <em>Arxiv</em>, 2024
+      <br>
+      <a href="https://arxiv.org/pdf/2312.08220">[paper]</a> 
+    </div>
+  </div>
+
 <h2><span>2023</span></h2>
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
@@ -84,6 +99,21 @@ author_profile: true
       <br>
       <a href="https://assets.ctfassets.net/yreyglvi5sud/4jmy8h8OR0kmr3Oj1YaOIf/94751ea976fee4b06d9127095ac0249c/Liang_ICCV23a.pdf">[paper]</a> 
       <a href="https://sherrycattt.github.io/EvLowLight/">[website]</a>
+    </div>
+  </div>
+
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/500x300.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>EvPlug: Learn a plug-and-play module for event and image fusion</papertitle>
+      <br>
+      Jianping Jiang, Xinyu Zhou, <strong>Peiqi Duan</strong>, Boxin Shi<sup>*</sup>
+      <br>
+      <em>Arxiv</em>, 2023
+      <br>
+      <a href="https://arxiv.org/pdf/2312.16933">[paper]</a> 
     </div>
   </div>
 
