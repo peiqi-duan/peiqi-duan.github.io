@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Boya Postdoc of the School of Computer Science at Peking University supervised by Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=K1LjZxcAAAAJ">Boxin Shi</a>. I received the Ph.D. degree from the School of Computer Science, Peking University, China, in 2023. My research interests include areas of computational photography, neuromorphic camera imaging, and computer vision.
+I'm a Boya Postdoc of the School of Computer Science at Peking University supervised by Prof. <a href="https://scholar.google.com/citations?hl=zh-CN&user=K1LjZxcAAAAJ">Boxin Shi</a> in <a href="https://camera.pku.edu.cn">Camera Intelligence Lab</a>. I received the Ph.D. degree from the School of Computer Science, Peking University, China, in 2023. My research interests include areas of computational photography, neuromorphic camera imaging, and computer vision.
 
 News
 ======
