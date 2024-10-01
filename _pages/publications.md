@@ -11,7 +11,7 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
 <h2><span>2024</span></h2>
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
-      <img src="../images/500x300.png" width="160" alt="Image">
+      <img src="../images/color4E.png" width="160" alt="Image">
     </div>
     <div class="text-container">
       <papertitle>Color4E: Event demosaicing for full-color event guided image deblurring</papertitle>
@@ -25,7 +25,7 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
 
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
-      <img src="../images/500x300.png" width="160" alt="Image">
+      <img src="../images/EvDiG.png" width="160" alt="Image">
     </div>
     <div class="text-container">
       <papertitle>EvDiG: Event-guided direct and global components separation</papertitle>
@@ -41,7 +41,7 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
 
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
-      <img src="../images/500x300.png" width="160" alt="Image">
+      <img src="../images/EventAid.png" width="160" alt="Image">
     </div>
     <div class="text-container">
       <papertitle>EventAid: Benchmarking event-aided image/video enhancement algorithms with real-captured hybrid dataset</papertitle>
