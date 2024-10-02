@@ -206,7 +206,7 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
     <div class="text-container">
       <papertitle>Joint filtering of intensity images and neuromorphic events for high-resolution noise robust imaging</papertitle>
       <br>
-     Zihao Wang<sup>#</sup>, Peiqi Duan<strong>Peiqi Duan<sup>#</sup></strong>, Oliver Cossairt, Aggelos Katsaggelos, Tiejun Huang, and Boxin Shi<sup>*</sup>
+     Zihao Wang<sup>#</sup>, <strong>Peiqi Duan<sup>#</sup></strong>, Oliver Cossairt, Aggelos Katsaggelos, Tiejun Huang, and Boxin Shi<sup>*</sup>
       <br>
       <em>CVPR</em>, 2020
       <br>
