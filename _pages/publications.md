@@ -57,7 +57,7 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
 <h2><span>2023</span></h2>
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
-      <img src="../images/500x300.png" width="160" alt="Image">
+      <img src="../images/HDRpami.png" width="160" alt="Image">
     </div>
     <div class="text-container">
       <papertitle>Hybrid high dynamic range imaging fusing neuromorphic and conventional images</papertitle>
@@ -73,7 +73,7 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
 
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
-      <img src="../images/500x300.png" width="160" alt="Image">
+      <img src="../images/NeuroZoom.png" width="160" alt="Image">
     </div>
     <div class="text-container">
       <papertitle>NeuroZoom: Denoising and super resolving neuromorphic events and spikes</papertitle>
@@ -89,7 +89,7 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
 
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
-      <img src="../images/500x300.png" width="160" alt="Image">
+      <img src="../images/LowLight.png" width="160" alt="Image">
     </div>
     <div class="text-container">
       <papertitle>Coherent event guided low-light video enhancement</papertitle>
@@ -105,7 +105,7 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
 
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
-      <img src="../images/500x300.png" width="160" alt="Image">
+      <img src="../images/EvPlug.png" width="160" alt="Image">
     </div>
     <div class="text-container">
       <papertitle>EvPlug: Learn a plug-and-play module for event and image fusion</papertitle>
@@ -121,7 +121,7 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
 <h2><span>2022</span></h2>
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
-      <img src="../images/500x300.png" width="160" alt="Image">
+      <img src="../images/DataAss.png" width="160" alt="Image">
     </div>
     <div class="text-container">
       <papertitle>Data association between event streams and intensity frames under diverse baselines</papertitle>
@@ -136,7 +136,7 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
 
    <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
-      <img src="../images/500x300.png" width="160" alt="Image">
+      <img src="../images/EvUnroll.png" width="160" alt="Image">
     </div>
     <div class="text-container">
       <papertitle>EvUnroll: Neuromorphic events based rolling shutter image correction</papertitle>
@@ -153,7 +153,7 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
   <h2><span>2021</span></h2>
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
-      <img src="../images/500x300.png" width="160" alt="Image">
+      <img src="../images/GEFpami.png" width="160" alt="Image">
     </div>
     <div class="text-container">
       <papertitle>Guided Event Filtering: Synergy between intensity images and neuromorphic events for high performance imaging</papertitle>
@@ -169,7 +169,7 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
 
    <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
-      <img src="../images/500x300.png" width="160" alt="Image">
+      <img src="../images/EventZoom.png" width="160" alt="Image">
     </div>
     <div class="text-container">
       <papertitle>EventZoom: Learning to denoise and super resolve neuromorphic events</papertitle>
@@ -186,7 +186,7 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
 <h2><span>2020</span></h2>
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
-      <img src="../images/500x300.png" width="160" alt="Image">
+      <img src="../images/HDRcvpr.png" width="160" alt="Image">
     </div>
     <div class="text-container">
       <papertitle>Neuromorphic camera guided high dynamic range imaging</papertitle>
@@ -201,7 +201,7 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
 
    <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
-      <img src="../images/500x300.png" width="160" alt="Image">
+      <img src="../images/GEFcvpr.png" width="160" alt="Image">
     </div>
     <div class="text-container">
       <papertitle>Joint filtering of intensity images and neuromorphic events for high-resolution noise robust imaging</papertitle>
