@@ -32,7 +32,7 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
       <br>
       Xinyu Zhou, <strong>Peiqi Duan</strong>, Boyu Li, Chu Zhou, Chao Xu, and Boxin Shi<sup>*</sup>
       <br>
-      <em>CVPR</em>, 2024  [Received full marks]  [Oral presentation (0.78%)]
+      <em>CVPR</em>, 2024  [Received full marks]  [Oral presentation, 0.78%]
       <br>
       <a href="https://assets.ctfassets.net/yreyglvi5sud/4rrKmGuR98bvBBmLlZK7i3/7c2a00d49adde30a4caba7cdec852f24/Zhou_CVPR24.pdf">[paper]</a> 
       <a href="https://www.youtube.com/watch?v=y0bMZnUJt14">[video]</a>
@@ -176,7 +176,7 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
       <br>
      <strong>Peiqi Duan</strong>, Zihao W. Wang, Xinyu Zhou, Yi Ma, and Boxin Shi<sup>*</sup>
       <br>
-      <em>CVPR</em>, 2021  [Oral presentation (4.19%)]
+      <em>CVPR</em>, 2021  [Oral presentation, 4.19%]
       <br>
       <a href="https://assets.ctfassets.net/yreyglvi5sud/MyFOVymXNOWuqYwi5tWMK/5be8c2c2c7f0061de3e5d39979ea3283/Duan_CVPR21.pdf">[paper]</a> 
       <a href="https://sites.google.com/view/EventZoom">[website]</a>
