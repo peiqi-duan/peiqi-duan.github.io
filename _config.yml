@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Home"
+title                    : "Peiqi Duan"
 title_separator          : "-"
 name                     : &name ""
 description              : &description "personal description"
@@ -23,11 +23,9 @@ author:
   # Biographic information
   avatar           : "peiqi_duan.jpg"
   name             : "Peiqi Duan 段沛奇"
-  pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
   location         : "Beijing, China"
   employer         : "Peking University"
-  uri              : # URL
   email            : "duanqi0001@pku.edu.cn"
 
   # Academic websites
