@@ -25,7 +25,7 @@ author:
   name             : "Peiqi Duan 段沛奇"
   bio              : "Postdoctoral Researcher"
   location         : " Beijing, China"
-  employer         : "Peking University"
+  employer         : # "Peking University"
   email            : "duanqi0001@pku.edu.cn"
 
   # Academic websites
