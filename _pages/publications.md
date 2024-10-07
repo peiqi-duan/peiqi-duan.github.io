@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-<div class="wordwrap", text-align: left>You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.<br>
+<div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.<br>
 In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1</div>
 
 <h2><span>2024</span></h2>
