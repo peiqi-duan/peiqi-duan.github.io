@@ -6,8 +6,26 @@ author_profile: true
 ---
 
 You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.<br>
-In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1<br><br>
+In top venues: TPAMI × 4, CVPR × 6, ICCV × 1, ECCV × 1, MM × 1<br><br>
 <sup>#</sup> joint first authors; <sup>*</sup>corresponding author
+
+<h2><span>2025</span></h2>
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/EventAid.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>EventAid: Benchmarking event-aided image/video enhancement algorithms with real-captured hybrid dataset</papertitle>
+      <br>
+      <strong>Peiqi Duan<sup>#</sup></strong>, Boyu Li<sup>#</sup>, Yixin Yang, Hanyue Lou, Minggui Teng, Yi Ma, Boxin Shi<sup>*</sup>
+      <br>
+      <em>TPAMI</em>, 2025
+      <br>
+      <a href="https://downloads.ctfassets.net/yreyglvi5sud/4Vwymax4d4uMS3oSvKOus6/a4c4a0ebefca347255fc47bf093dbaa2/Duan_TPAMI25.pdf">[paper]</a> 
+      <a href="https://downloads.ctfassets.net/yreyglvi5sud/3ARIzPbFOtjqjqax6sHi3/e6ab7b3a9f8e4bac4c1a4f00fa2c91e8/output.pdf">[Supplementary]</a>
+      <a href="https://sites.google.com/view/eventaid-benchmark">[Website]</a>
+    </div>
+  </div>
 
 <h2><span>2024</span></h2>
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
@@ -37,21 +55,6 @@ In top venues: TPAMI × 3, CVPR × 5, ICCV × 1, ECCV × 1, MM × 1<br><br>
       <br>
       <a href="https://assets.ctfassets.net/yreyglvi5sud/4rrKmGuR98bvBBmLlZK7i3/7c2a00d49adde30a4caba7cdec852f24/Zhou_CVPR24.pdf">[paper]</a> 
       <a href="https://www.youtube.com/watch?v=y0bMZnUJt14">[video]</a>
-    </div>
-  </div>
-
-  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
-    <div class="image-container">
-      <img src="../images/EventAid.png" width="160" alt="Image">
-    </div>
-    <div class="text-container">
-      <papertitle>EventAid: Benchmarking event-aided image/video enhancement algorithms with real-captured hybrid dataset</papertitle>
-      <br>
-      <strong>Peiqi Duan<sup>#</sup></strong>, Boyu Li<sup>#</sup>, Yixin Yang, Hanyue Lou, Minggui Teng, Yi Ma, Boxin Shi<sup>*</sup>
-      <br>
-      <em>Arxiv</em>, 2024
-      <br>
-      <a href="https://arxiv.org/pdf/2312.08220">[paper]</a> 
     </div>
   </div>
 
