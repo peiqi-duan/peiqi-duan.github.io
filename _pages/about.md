@@ -11,6 +11,8 @@ I'm a Boya Postdoc of the School of Computer Science at Peking University, super
 
 News
 ======
+<b>[2025.04]</b> One co-first-authored paper with Boyu Li for benchmarking event-aided image/video enhancement algorithms with real-captured hybrid dataset is accepted by the journal <b>TPAMI</b>.<br><br>
+<b>[2025.03]</b> One research paper for event-based static and dynamic scenes reconstruction co-first-authored with Qiyao Gao is accepted by the conference <b>CVPR 2025</b>.<br><br>
 <b>[2024.05]</b> One research paper for event demosaicing and image deblurring co-first-authored with Yi Ma is accepted by the conference <b>ACM MM 2024</b>.<br><br>
 <b>[2024.02]</b> One research paper for event-guided direct and global components separation co-authored with Xinyu Zhou, Boyu Li, and Chu Zhou has been accepted by the conference <b>CVPR 2024</b> and <b>received full marks</b> in the review phase.<br><br>
 <b>[2023.12]</b> One research paper for event-based HDR image reconstruction co-authored with Jin Han and Yixin Yang has been accepted by the journal <b>TPAMI</b>.<br><br>
