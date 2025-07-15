@@ -27,6 +27,38 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1<br><br>
     </div>
   </div>
 
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/URSEE_CVPR_2025" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>Unified reconstruction of static and dynamic scenes from events</papertitle>
+      <br>
+      Qiyao Gao<sup>#</sup>, <strong>Peiqi Duan<sup>#</sup></strong>, Hanyue Lou, Minggui Teng, Ziqi Cai, Xu Chen, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>CVPR</em>, 2025
+      <br>
+      <a href="https://assets.ctfassets.net/yreyglvi5sud/4Lyg2bT4h9qdR49G9pX8HE/b6c266537c0bb4908bae70236edb9840/Gao_CVPR25.pdf">[paper]</a> 
+      <a href="https://github.com/gaoqiyao1997/URSEE">[Website]</a>
+    </div>
+  </div>
+
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/Wang_ICCV_2025" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>Asynchronous event error-minimizing noise for safeguarding event dataset</papertitle>
+      <br>
+      Ruofei Wang, <strong>Peiqi Duan</strong>, Boxin Shi, and Renjie Wan<sup>*</sup>
+      <br>
+      <em>ICCV</em>, 2025
+      <br>
+      <a href="https://arxiv.org/pdf/2507.05728">[paper]</a> 
+      <a href="https://github.com/rfww/uevs">[Website]</a>
+    </div>
+  </div>
+
 <h2><span>2024</span></h2>
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
