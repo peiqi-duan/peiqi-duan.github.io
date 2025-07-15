@@ -29,7 +29,7 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1<br><br>
 
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
-      <img src="../images/URSEE_CVPR_2025" width="160" alt="Image">
+      <img src="../images/URSEE_CVPR_2025.png" width="160" alt="Image">
     </div>
     <div class="text-container">
       <papertitle>Unified reconstruction of static and dynamic scenes from events</papertitle>
@@ -45,7 +45,7 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1<br><br>
 
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
-      <img src="../images/Wang_ICCV_2025" width="160" alt="Image">
+      <img src="../images/Wang_ICCV_2025.png" width="160" alt="Image">
     </div>
     <div class="text-container">
       <papertitle>Asynchronous event error-minimizing noise for safeguarding event dataset</papertitle>
