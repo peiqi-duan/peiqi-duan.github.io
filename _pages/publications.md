@@ -36,7 +36,7 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1<br><br>
       <br>
       Qiyao Gao<sup>#</sup>, <strong>Peiqi Duan<sup>#</sup></strong>, Hanyue Lou, Minggui Teng, Ziqi Cai, Xu Chen, and Boxin Shi<sup>*</sup>
       <br>
-      <em>CVPR</em>, 2025
+      <em>CVPR</em>, 2025 [Highlight]
       <br>
       <a href="https://assets.ctfassets.net/yreyglvi5sud/4Lyg2bT4h9qdR49G9pX8HE/b6c266537c0bb4908bae70236edb9840/Gao_CVPR25.pdf">[paper]</a> 
       <a href="https://github.com/gaoqiyao1997/URSEE">[Website]</a>
