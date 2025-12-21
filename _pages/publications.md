@@ -70,6 +70,7 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1<br><br>
       Yi Ma<sup>#</sup>,<strong>Peiqi Duan<sup>#</sup></strong>, Yuchen Hong, Chu Zhou, Yu Zhang, Jimmy Ren, and Boxin Shi<sup>*</sup>
       <br>
       <em>ACM MM</em>, 2024
+      <br>
       <a href="https://assets.ctfassets.net/yreyglvi5sud/1Y1GEu0FyuyyV4V3aPG7yG/013c906f5d792a73b08963d7a3f4c4c5/Ma_MM24.pdf">[paper]</a> 
       <br>
     </div>
