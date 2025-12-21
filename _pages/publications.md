@@ -90,6 +90,21 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1<br><br>
     </div>
   </div>
 
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/EventUPS.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>EventUPS: Uncalibrated photometric stereo using an event camera</papertitle>
+      <br>
+      Jinxiu Liang<sup>#</sup>, Bohan Yu<sup>#</sup>, Siqi Yang, Haotian Zhuang, Jieji Ren, <strong>Peiqi Duan</strong>, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>ICCV</em>, 2025 [Highlight]
+      <br>
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2025/Liang_ICCV25.pdf">[paper]</a> 
+    </div>
+  </div>
+
 <h2><span>2024</span></h2>
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
