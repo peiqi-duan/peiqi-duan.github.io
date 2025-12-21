@@ -68,7 +68,7 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1, NeurIPS × 
       <br>
       Xinyu Zhou, <strong>Peiqi Duan</strong>, Yeliduosi Xiaokaiti, Chao Xu, and Boxin Shi<sup>*</sup>
       <br>
-      <em>ICCV</em>, 2025 <span style="font-weight:600;">[Oral Presentation, 2.4%]</span>
+      <em>ICCV</em>, 2025 <span style="color:#8B0000">[Oral Presentation, 2.4%]</span>
       <br>
       <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2025/ZhouXY_ICCV25.pdf">[paper]</a> 
     </div>
