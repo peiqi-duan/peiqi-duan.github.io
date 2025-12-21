@@ -29,7 +29,7 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1<br><br>
 
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
-      <img src="../images/EvDepth" width="160" alt="Image">
+      <img src="../images/EvDepth.png" width="160" alt="Image">
     </div>
     <div class="text-container">
       <papertitle>Dense metric depth estimation via event-based differential focus volume prompting</papertitle>
