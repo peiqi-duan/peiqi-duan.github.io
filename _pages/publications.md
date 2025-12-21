@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.<br>
-In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1<br><br>
+In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1, NeurIPS × 1<br><br>
 <sup>#</sup> joint first authors; <sup>*</sup>corresponding author
 
 <h2><span>2025</span></h2>
