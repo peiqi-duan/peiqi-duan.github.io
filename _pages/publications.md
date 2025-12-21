@@ -29,6 +29,22 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1<br><br>
 
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
+      <img src="../images/EvDepth" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>Dense metric depth estimation via event-based differential focus volume prompting</papertitle>
+      <br>
+      Boyu Li, <strong>Peiqi Duan<sup>*</sup></strong>, Zhaojun Huang, Xinyu Zhou, Yifei Xia, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>NeurIPS</em>, 2025
+      <br>
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2025/Li_NeurIPS25.pdf">[paper]</a> 
+      <a href="https://github.com/liboyu02/EDFV/">[Website]</a>
+    </div>
+  </div>
+
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
       <img src="../images/URSEE_CVPR_2025.png" width="160" alt="Image">
     </div>
     <div class="text-container">
