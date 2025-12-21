@@ -68,10 +68,9 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1<br><br>
       <br>
       Xinyu Zhou, <strong>Peiqi Duan</strong>, Yeliduosi Xiaokaiti, Chao Xu, and Boxin Shi<sup>*</sup>
       <br>
-      <em>ICCV</em>, 2025 [Highlight]
+      <em>ICCV</em>, 2025 [Oral presentation, 2.4%]
       <br>
-      <a href="https://assets.ctfassets.net/yreyglvi5sud/4Lyg2bT4h9qdR49G9pX8HE/b6c266537c0bb4908bae70236edb9840/Gao_CVPR25.pdf">[paper]</a> 
-      <a href="https://github.com/gaoqiyao1997/URSEE">[Website]</a>
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2025/ZhouXY_ICCV25.pdf">[paper]</a> 
     </div>
   </div>
 
@@ -84,9 +83,10 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1<br><br>
       <br>
       Ruofei Wang, <strong>Peiqi Duan</strong>, Boxin Shi, and Renjie Wan<sup>*</sup>
       <br>
-      <em>ICCV</em>, 2025 [Oral presentation, 2.4%]
+      <em>ICCV</em>, 2025 [Highlight]
       <br>
-      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2025/ZhouXY_ICCV25.pdf">[paper]</a> 
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2025/Wang_ICCV25.pdf">[paper]</a> 
+      <a href="https://github.com/rfww/uevs">[Website]</a>
     </div>
   </div>
 
