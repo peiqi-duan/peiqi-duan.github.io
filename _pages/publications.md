@@ -52,7 +52,7 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1, NeurIPS × 
       <br>
       Qiyao Gao<sup>#</sup>, <strong>Peiqi Duan<sup>#</sup></strong>, Hanyue Lou, Minggui Teng, Ziqi Cai, Xu Chen, and Boxin Shi<sup>*</sup>
       <br>
-      <em>CVPR</em>, 2025 [Highlight]
+      <em>CVPR</em>, 2025 <span style="color:#8B0000">[Highlight]</span>
       <br>
       <a href="https://assets.ctfassets.net/yreyglvi5sud/4Lyg2bT4h9qdR49G9pX8HE/b6c266537c0bb4908bae70236edb9840/Gao_CVPR25.pdf">[paper]</a> 
       <a href="https://github.com/gaoqiyao1997/URSEE">[Website]</a>
@@ -83,7 +83,7 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1, NeurIPS × 
       <br>
       Ruofei Wang, <strong>Peiqi Duan</strong>, Boxin Shi, and Renjie Wan<sup>*</sup>
       <br>
-      <em>ICCV</em>, 2025 [Highlight]
+      <em>ICCV</em>, 2025 <span style="color:#8B0000">[Highlight]</span>
       <br>
       <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2025/Wang_ICCV25.pdf">[paper]</a> 
       <a href="https://github.com/rfww/uevs">[Website]</a>
@@ -99,7 +99,7 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1, NeurIPS × 
       <br>
       Jinxiu Liang<sup>#</sup>, Bohan Yu<sup>#</sup>, Siqi Yang, Haotian Zhuang, Jieji Ren, <strong>Peiqi Duan</strong>, and Boxin Shi<sup>*</sup>
       <br>
-      <em>ICCV</em>, 2025 [Highlight]
+      <em>ICCV</em>, 2025 <span style="color:#8B0000">[Highlight]</span>
       <br>
       <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2025/Liang_ICCV25.pdf">[paper]</a> 
     </div>
@@ -131,7 +131,7 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1, NeurIPS × 
       <br>
       Xinyu Zhou, <strong>Peiqi Duan</strong>, Boyu Li, Chu Zhou, Chao Xu, and Boxin Shi<sup>*</sup>
       <br>
-      <em>CVPR</em>, 2024  [Received full marks]  [Oral presentation, 3.3%]
+      <em>CVPR</em>, 2024  <span style="color:#8B0000"> [Oral presentation, 3.3%]</span>
       <br>
       <a href="https://assets.ctfassets.net/yreyglvi5sud/4rrKmGuR98bvBBmLlZK7i3/7c2a00d49adde30a4caba7cdec852f24/Zhou_CVPR24.pdf">[paper]</a> 
       <a href="https://www.youtube.com/watch?v=y0bMZnUJt14">[video]</a>
@@ -260,7 +260,7 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1, NeurIPS × 
       <br>
      <strong>Peiqi Duan</strong>, Zihao W. Wang, Xinyu Zhou, Yi Ma, and Boxin Shi<sup>*</sup>
       <br>
-      <em>CVPR</em>, 2021  [Oral presentation, 4.19%]
+      <em>CVPR</em>, 2021  <span style="color:#8B0000">[Oral presentation, 4.19%]</span>
       <br>
       <a href="https://assets.ctfassets.net/yreyglvi5sud/MyFOVymXNOWuqYwi5tWMK/5be8c2c2c7f0061de3e5d39979ea3283/Duan_CVPR21.pdf">[paper]</a> 
       <a href="https://sites.google.com/view/EventZoom">[website]</a>
