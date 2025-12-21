@@ -61,6 +61,22 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1<br><br>
 
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
+      <img src="../images/EvVib.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>Event-based visual vibrometry</papertitle>
+      <br>
+      Xinyu Zhou, <strong>Peiqi Duan</strong>, Yeliduosi Xiaokaiti, Chao Xu, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>ICCV</em>, 2025 [Highlight]
+      <br>
+      <a href="https://assets.ctfassets.net/yreyglvi5sud/4Lyg2bT4h9qdR49G9pX8HE/b6c266537c0bb4908bae70236edb9840/Gao_CVPR25.pdf">[paper]</a> 
+      <a href="https://github.com/gaoqiyao1997/URSEE">[Website]</a>
+    </div>
+  </div>
+
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
       <img src="../images/Wang_ICCV_2025.png" width="160" alt="Image">
     </div>
     <div class="text-container">
@@ -68,10 +84,9 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1<br><br>
       <br>
       Ruofei Wang, <strong>Peiqi Duan</strong>, Boxin Shi, and Renjie Wan<sup>*</sup>
       <br>
-      <em>ICCV</em>, 2025
+      <em>ICCV</em>, 2025 [Oral presentation, 2.4%]
       <br>
-      <a href="https://arxiv.org/pdf/2507.05728">[paper]</a> 
-      <a href="https://github.com/rfww/uevs">[Website]</a>
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2025/ZhouXY_ICCV25.pdf">[paper]</a> 
     </div>
   </div>
 
