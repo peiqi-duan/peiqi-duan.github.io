@@ -11,6 +11,8 @@ I'm a Boya Postdoc of the School of Computer Science at Peking University, super
 
 News
 ======
+<b>[2025.09]</b> One research paper on dense metric depth estimation via event-based differential focus volume prompting, co-corresponding-authored with Boxin Shi, is accepted by the conference <b>NeurIPS 2025</b>.<br><br>
+<b>[2025.06]</b> Three research papers on event-based vision are accepted by <b>ICCV 2025</b>, including one Oral presentation (top 2.4%) and two Highlight papers. The works focus on event-based visual vibrometry, asynchronous event error-minimizing noise modeling, and uncalibrated photometric stereo using an event camera.<br><br>
 <b>[2025.04]</b> One co-first-authored paper with Boyu Li for benchmarking event-aided image/video enhancement algorithms with real-captured hybrid dataset is accepted by the journal <b>TPAMI</b>.<br><br>
 <b>[2025.03]</b> One research paper for event-based static and dynamic scenes reconstruction co-first-authored with Qiyao Gao is accepted by the conference <b>CVPR 2025</b>.<br><br>
 <b>[2024.05]</b> One research paper for event demosaicing and image deblurring co-first-authored with Yi Ma is accepted by the conference <b>ACM MM 2024</b>.<br><br>
