@@ -17,7 +17,7 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1, NeurIPS × 
     <div class="text-container">
       <papertitle>EventAid: Benchmarking event-aided image/video enhancement algorithms with real-captured hybrid dataset</papertitle>
       <br>
-      <strong>Peiqi Duan<sup>#</sup></strong>, Boyu Li<sup>#</sup>, Yixin Yang, Hanyue Lou, Minggui Teng, Yi Ma, Boxin Shi<sup>*</sup>
+      <strong>Peiqi Duan<sup>#</sup></strong>, Boyu Li<sup>#</sup>, Yixin Yang, Hanyue Lou, Minggui Teng, Xinyu Zhou, Yi Ma, Boxin Shi<sup>*</sup>
       <br>
       <em>TPAMI</em>, 2025
       <br>
