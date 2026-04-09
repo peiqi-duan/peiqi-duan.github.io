@@ -6,9 +6,68 @@ author_profile: true
 ---
 
 You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a>.<br>
-In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1, NeurIPS × 1<br><br>
+In top venues: TPAMI × 4, TIP × 1, CVPR × 9, ICCV × 4, ECCV × 1, MM × 1, NeurIPS × 1<br><br>
 <sup>#</sup> joint first authors; <sup>*</sup>corresponding author
 
+<h2><span>2026</span></h2>
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/Dark-evGS.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>Dark-EvGS: Event camera as an eye for radiance field in the dark</papertitle>
+      <br>
+      Jingqian Wu, <strong>Peiqi Duan<sup>*</sup></strong>, Zongqiang Wang, Changwei Wang, Boxin Shi, and Edmund Y. Lam<sup>*</sup>
+      <br>
+      <em>TIP</em>, 2026
+      <br>
+      <a href="https://ieeexplore.ieee.org/document/11449405">[paper]</a> 
+    </div>
+  </div>
+
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/AE2VID.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>AE2VID: Event-based video reconstruction via aperture modulation</papertitle>
+      <br>
+      Chenxu Bai<sup>#</sup>, Boyu Li<sup>#</sup>, <strong>Peiqi Duan<sup>*</sup></strong>, Xinyu Zhou, Hanyue Lou, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>CVPR</em>, 2026
+      <br>
+    </div>
+  </div>
+
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/textevent.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>Texvent: Asynchronous event data simulation via text prompt</papertitle>
+      <br>
+      Ruofei Wang, <strong>Peiqi Duan</strong>, Ka Chun Cheung, Simon See, Boxin Shi, and Renjie Wan<sup>*</sup>
+      <br>
+      <em>CVPR</em>, 2026 <span style="color:#8B0000">[Oral Presentation]</span>
+      <br>
+    </div>
+  </div>
+
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/SpikeStereo.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>240FPS stereo vision from monocular mixed spikes</papertitle>
+      <br>
+      Yeliduosi Xiaokaiti, Yakun Chang, Yang Bai, Zhaojun Huang, <strong>Peiqi Duan</strong>, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>CVPR</em>, 2026 <span style="color:#8B0000">[Highlight]</span>
+      <br>
+    </div>
+  </div>
+
+  
 <h2><span>2025</span></h2>
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
@@ -17,7 +76,7 @@ In top venues: TPAMI × 4, CVPR × 6, ICCV × 4, ECCV × 1, MM × 1, NeurIPS × 
     <div class="text-container">
       <papertitle>EventAid: Benchmarking event-aided image/video enhancement algorithms with real-captured hybrid dataset</papertitle>
       <br>
-      <strong>Peiqi Duan<sup>#</sup></strong>, Boyu Li<sup>#</sup>, Yixin Yang, Hanyue Lou, Minggui Teng, Xinyu Zhou, Yi Ma, Boxin Shi<sup>*</sup>
+      <strong>Peiqi Duan<sup>#</sup></strong>, Boyu Li<sup>#</sup>, Yixin Yang, Hanyue Lou, Minggui Teng, Xinyu Zhou, Yi Ma, and Boxin Shi<sup>*</sup>
       <br>
       <em>TPAMI</em>, 2025
       <br>
