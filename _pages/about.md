@@ -11,7 +11,7 @@ I'm a Boya Postdoc of the School of Computer Science at Peking University, super
 
 News
 ======
-<b>[2026.04]</b> Four research papers on neuromorphic-based vision are accepted by CVPR 2026 and TIP 2026, including one Oral Presentation and one Highlight paper. The works cover dark-scene radiance field reconstruction with event cameras, event-based video reconstruction through aperture modulation, text-prompt-driven asynchronous event simulation, and high-speed stereo vision from monocular mixed spikes.
+<b>[2026.04]</b> Four research papers on neuromorphic-based vision are accepted by <b>CVPR 2026</b> and <b>TIP 2026</b>, including one Oral Presentation and one Highlight paper. The works cover dark-scene radiance field reconstruction with event cameras, event-based video reconstruction through aperture modulation, text-prompt-driven asynchronous event simulation, and high-speed stereo vision from monocular mixed spikes.<br><br>
 <b>[2025.09]</b> One research paper on dense metric depth estimation via event-based differential focus volume prompting, co-corresponding-authored with Boxin Shi, is accepted by the conference <b>NeurIPS 2025</b>.<br><br>
 <b>[2025.06]</b> Three research papers on event-based vision are accepted by <b>ICCV 2025</b>, including one Oral presentation (top 2.4%) and two Highlight papers. The works focus on event-based visual vibrometry, asynchronous event error-minimizing noise modeling, and uncalibrated photometric stereo using an event camera.<br><br>
 <b>[2025.04]</b> One co-first-authored paper with Boyu Li for benchmarking event-aided image/video enhancement algorithms with real-captured hybrid dataset is accepted by the journal <b>TPAMI</b>.<br><br>
