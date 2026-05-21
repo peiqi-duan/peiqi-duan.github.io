@@ -48,7 +48,7 @@ In top venues: TPAMI × 4, TIP × 1, CVPR × 9, ICCV × 4, ECCV × 1, MM × 1, N
       <br>
       Ruofei Wang, <strong>Peiqi Duan</strong>, Ka Chun Cheung, Simon See, Boxin Shi, and Renjie Wan<sup>*</sup>
       <br>
-      <em>CVPR</em>, 2026 <span style="color:#8B0000">[Oral Presentation]</span>
+      <em>CVPR</em>, 2026 <span style="color:#8B0000">[Oral Presentation, 3.4%]</span>
       <br>
     </div>
   </div>
