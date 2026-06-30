@@ -36,6 +36,8 @@ In top venues: TPAMI × 4, TIP × 1, CVPR × 9, ICCV × 4, ECCV × 1, MM × 1, N
       <br>
       <em>CVPR</em>, 2026
       <br>
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2026/CVPR26_E2VidAperture.pdf">[paper]</a> 
+      <a href="https://github.com/a1henu/AE2VID/">[Website]</a>
     </div>
   </div>
 
@@ -48,8 +50,10 @@ In top venues: TPAMI × 4, TIP × 1, CVPR × 9, ICCV × 4, ECCV × 1, MM × 1, N
       <br>
       Ruofei Wang, <strong>Peiqi Duan</strong>, Ka Chun Cheung, Simon See, Boxin Shi, and Renjie Wan<sup>*</sup>
       <br>
-      <em>CVPR</em>, 2026 <span style="color:#8B0000">[Oral Presentation, 3.4%]</span>
+      <em>CVPR</em>, 2026 <span style="color:#8B0000">[Oral Presentation, 3.4%] [Award Candidate Paper]</span>
       <br>
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2026/CVPR26_EventFromText.pdf">[paper]</a> 
+      <a href="https://github.com/rfww/texvent">[Website]</a>
     </div>
   </div>
 
@@ -64,6 +68,8 @@ In top venues: TPAMI × 4, TIP × 1, CVPR × 9, ICCV × 4, ECCV × 1, MM × 1, N
       <br>
       <em>CVPR</em>, 2026 <span style="color:#8B0000">[Highlight]</span>
       <br>
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2026/CVPR26_SpikeStereo.pdf">[paper]</a> 
+      <a href="https://github.com/yongqiye00/MonoSpikeStereo">[Website]</a>
     </div>
   </div>
 
@@ -80,8 +86,8 @@ In top venues: TPAMI × 4, TIP × 1, CVPR × 9, ICCV × 4, ECCV × 1, MM × 1, N
       <br>
       <em>TPAMI</em>, 2025
       <br>
-      <a href="https://downloads.ctfassets.net/yreyglvi5sud/4Vwymax4d4uMS3oSvKOus6/a4c4a0ebefca347255fc47bf093dbaa2/Duan_TPAMI25.pdf">[paper]</a> 
-      <a href="https://downloads.ctfassets.net/yreyglvi5sud/3ARIzPbFOtjqjqax6sHi3/e6ab7b3a9f8e4bac4c1a4f00fa2c91e8/output.pdf">[Supplementary]</a>
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2025/Duan_TPAMI25.pdf">[paper]</a> 
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2025/Duan_TPAMI25-supp.pdf">[Supplementary]</a>
       <a href="https://sites.google.com/view/eventaid-benchmark">[Website]</a>
     </div>
   </div>
@@ -113,7 +119,7 @@ In top venues: TPAMI × 4, TIP × 1, CVPR × 9, ICCV × 4, ECCV × 1, MM × 1, N
       <br>
       <em>CVPR</em>, 2025 <span style="color:#8B0000">[Highlight]</span>
       <br>
-      <a href="https://assets.ctfassets.net/yreyglvi5sud/4Lyg2bT4h9qdR49G9pX8HE/b6c266537c0bb4908bae70236edb9840/Gao_CVPR25.pdf">[paper]</a> 
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2025/Gao_CVPR25.pdf">[paper]</a> 
       <a href="https://github.com/gaoqiyao1997/URSEE">[Website]</a>
     </div>
   </div>
@@ -176,7 +182,7 @@ In top venues: TPAMI × 4, TIP × 1, CVPR × 9, ICCV × 4, ECCV × 1, MM × 1, N
       <br>
       <em>ACM MM</em>, 2024
       <br>
-      <a href="https://assets.ctfassets.net/yreyglvi5sud/1Y1GEu0FyuyyV4V3aPG7yG/013c906f5d792a73b08963d7a3f4c4c5/Ma_MM24.pdf">[paper]</a> 
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2024/Ma_MM24.pdf">[paper]</a> 
       <br>
     </div>
   </div>
@@ -192,7 +198,7 @@ In top venues: TPAMI × 4, TIP × 1, CVPR × 9, ICCV × 4, ECCV × 1, MM × 1, N
       <br>
       <em>CVPR</em>, 2024  <span style="color:#8B0000"> [Oral presentation, 3.3%]</span>
       <br>
-      <a href="https://assets.ctfassets.net/yreyglvi5sud/4rrKmGuR98bvBBmLlZK7i3/7c2a00d49adde30a4caba7cdec852f24/Zhou_CVPR24.pdf">[paper]</a> 
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2024/Zhou_CVPR24.pdf">[paper]</a> 
       <a href="https://www.youtube.com/watch?v=y0bMZnUJt14">[video]</a>
     </div>
   </div>
@@ -209,7 +215,7 @@ In top venues: TPAMI × 4, TIP × 1, CVPR × 9, ICCV × 4, ECCV × 1, MM × 1, N
       <br>
       <em>TPAMI</em>, 2023
       <br>
-      <a href="https://downloads.ctfassets.net/yreyglvi5sud/7yA8sqjDJilRmL5iseiRpB/734af0b70b6b8966d79ff4dd6d8cf73a/Han_TPAMI22.pdf">[paper]</a> 
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2023/Han_TPAMI23.pdf">[paper]</a> 
       <a href="https://github.com/hjynwa/NeurImg-HDR">[website]</a>
     </div>
   </div>
@@ -225,8 +231,8 @@ In top venues: TPAMI × 4, TIP × 1, CVPR × 9, ICCV × 4, ECCV × 1, MM × 1, N
       <br>
       <em>TPAMI</em>, 2023
       <br>
-      <a href="https://downloads.ctfassets.net/yreyglvi5sud/CfT1NA9r1HNehoQqZyf5t/0f0e305cfd5b73471226f5ef1dfa52fe/Duan_TPAMI23_comp.pdf">[paper]</a> 
-      <a href="https://github.com/hjynwa/NeurImg-HDR">[website]</a>
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2023/Duan_TPAMI23_comp.pdf">[paper]</a> 
+      <a href="https://sites.google.com/view/EventZoom-NeuroZoom">[website]</a>
     </div>
   </div>
 
@@ -241,7 +247,7 @@ In top venues: TPAMI × 4, TIP × 1, CVPR × 9, ICCV × 4, ECCV × 1, MM × 1, N
       <br>
       <em>ICCV</em>, 2023
       <br>
-      <a href="https://assets.ctfassets.net/yreyglvi5sud/4jmy8h8OR0kmr3Oj1YaOIf/94751ea976fee4b06d9127095ac0249c/Liang_ICCV23a.pdf">[paper]</a> 
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2023/Liang_ICCV23.pdf">[paper]</a> 
       <a href="https://sherrycattt.github.io/EvLowLight/">[website]</a>
     </div>
   </div>
