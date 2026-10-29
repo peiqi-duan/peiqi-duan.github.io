@@ -27,6 +27,53 @@ In top venues: TPAMI × 4, TIP × 1, CVPR × 9, ICCV × 4, ECCV × 3, MM × 1, N
 
   <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
     <div class="image-container">
+      <img src="../images/EvTurb.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>EvTurb: Event camera guided turbulence removal</papertitle>
+      <br>
+      Yixing Liu, Minggui Teng, Yifei Xia, <strong>Peiqi Duan</strong>, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>TCI</em>, 2026
+      <br>
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2026/TCI26_EvTurb.pdf">[paper]</a> 
+      <a href="https://github.com/ChipsAhoyM/EvTurb">[Website]</a>
+    </div>
+  </div>
+
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/EvBOS.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>Event-based sparse-view background-oriented schlieren tomography</papertitle>
+      <br>
+      Xinyu Zhou, Shihao Hu, <strong>Peiqi Duan<sup>*</sup></strong>, Chao Xu, and Boxin Shi<sup>*</sup>
+      <br>
+      <em>ECCV</em>, 2026 <span style="color:#8B0000">[Spotlight]</span>
+      <br>
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2026/ECCV26_EventBOS.pdf">[paper]</a> 
+    </div>
+  </div>
+
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
+      <img src="../images/N2E.png" width="160" alt="Image">
+    </div>
+    <div class="text-container">
+      <papertitle>From noise to events: Conditional diffusion for event data augmentation</papertitle>
+      <br>
+      Ruofei Wang, Ziyuan Luo, <strong>Peiqi Duan</strong>, Xiufeng Huang, Boxin Shi, and Renjie Wan<sup>*</sup>
+      <br>
+      <em>ECCV</em>, 2026
+      <br>
+      <a href="https://pub-e7bc7e5ed67b401a8e9e587c3dee22b6.r2.dev/publications/2026/ECCV26_Noise2Events.pdf">[paper]</a> 
+      <a href="https://github.com/rfww/n2e">[Website]</a>
+    </div>
+  </div>
+
+  <div class="flex-row" onmouseout="par2net_stop()" onmouseover="par2net_start()">
+    <div class="image-container">
       <img src="../images/AE2VID.png" width="160" alt="Image">
     </div>
     <div class="text-container">
