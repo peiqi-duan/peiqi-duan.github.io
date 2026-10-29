@@ -27,7 +27,7 @@ I am a Research Assistant Professor at the School of Computer Science, Peking Un
 
 .news-date {
   color: #9299a4;
-  font-size: 12px;
+  font-size: 15px;
   font-weight: 600;
   letter-spacing: 0.5px;
   padding-top: 3px;
@@ -35,7 +35,7 @@ I am a Research Assistant Professor at the School of Computer Science, Peking Un
 }
 
 .news-title {
-  font-size: 15px;
+  font-size: 18px;
   font-weight: 600;
   line-height: 1.55;
   color: #252b35;
@@ -43,7 +43,7 @@ I am a Research Assistant Professor at the School of Computer Science, Peking Un
 }
 
 .news-desc {
-  font-size: 13.5px;
+  font-size: 17px;
   line-height: 1.75;
   color: #687180;
 }
@@ -64,7 +64,7 @@ I am a Research Assistant Professor at the School of Computer Science, Peking Un
 .news-older summary {
   cursor: pointer;
   color: #687180;
-  font-size: 13px;
+  font-size: 16px;
   font-weight: 500;
   padding: 8px 0;
 }
